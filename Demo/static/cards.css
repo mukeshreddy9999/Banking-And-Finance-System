@@ -1,0 +1,75 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    font-family: arial;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    float: left;
+    border-bottom: 0px;
+    max-height: 397px;
+    background-color: bisque;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.card img{
+    max-width:300px;
+    max-height:230px;
+}
+  
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    
+}
+  
+.card button:hover {
+    opacity: 0.7;
+}
+
+.midcard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    float: left;
+    border-bottom: 0px;
+    max-height: 397px;
+    background-color: bisque;
+} 
+.midcard img{
+    max-width:300px;
+    max-height:230px;
+}
+
+
+.midcard button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    
+}
+  
+.midcard button:hover {
+    opacity: 0.7;
+}
